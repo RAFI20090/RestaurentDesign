@@ -1,0 +1,14 @@
+<nav>
+              <p>Chef Taylor Bonnyman, working in collaboration with Head Chef Marguerite Keogh, offer elegant & playful modern British cooking.</p>
+              <a class=" text-white font-mono  font-bold link link-hover hover:no-underline">Design</a> 
+              <a class="text-white font-mono  font-bold link link-hover  hover:no-underline">Marketing</a> 
+              <a class="text-white font-mono  font-bold link link-hover  hover:no-underline">Advertisement</a>
+              <a class="text-white font-mono  font-bold link link-hover hover:no-underline">About us</a> 
+              <a class="text-white font-mono  font-bold link link-hover hover:no-underline">Contact</a> 
+              <a class="text-white font-mono  font-bold link link-hover hover:no-underline">Jobs</a> 
+              <a class="text-white font-mono  font-bold link link-hover hover:no-underline">Press kit</a>
+            </nav> 
+            <nav>
+              <a href="#" class="text-orange-300 border-2 outline-orange-400 p-4 ">ONLINE RESERVATION</a>
+              
+            </nav> 
